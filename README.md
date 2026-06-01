@@ -179,17 +179,88 @@ print(me.motto())
 
 ---
 
-## 🏅 Achievements
+## 🏅 Achievements & Competitive Stats
 
 <div align="center">
 
+### 📊 Coding Profile at a Glance — [codolio.com/dk003](https://codolio.com/dk003)
+
+| Metric | Value |
+|---|---|
+| 🧩 **Total Questions Solved** | **729** |
+| 📅 **Total Active Days** | **248** |
+| 🔥 **Max Streak** | **62 days** |
+| 🏁 **Total Contests Participated** | **29** (LeetCode: 2 · CodeChef: 26 · Codeforces: 1) |
+| 🏅 **Codolio Awards** | **7** |
+
+</div>
+
+<div align="center">
+
+### ⚔️ DSA Problems Solved
+
+| Category | Easy | Medium | Hard | Total |
+|---|---|---|---|---|
+| 💡 DSA | 73 | 66 | 14 | **153** |
+| 📚 Fundamentals (GFG + HackerRank) | — | — | — | **61** |
+| 🏆 Competitive (CodeChef + Codeforces) | — | — | — | **515** |
+
+</div>
+
+<div align="center">
+
+### 🔢 Top DSA Topics (Codolio)
+
+| Topic | Problems |
+|---|---|
+| 📦 Arrays | 74 |
+| 🔤 String | 27 |
+| 🗺️ HashMap & Set | 26 |
+| 👆 Two Pointers | 23 |
+| 🔍 Binary Search | 23 |
+| ⚙️ Algorithms | 18 |
+| 🔗 Linked Lists | 17 |
+| 🧮 Dynamic Programming | 14 |
+
+</div>
+
+<div align="center">
+
+### 🏆 Contest Ratings
+
+| Platform | Rating | Max Rating | Rank / Level |
+|---|---|---|---|
+| 🟡 **LeetCode** | 1542 | 1577 | Knight |
+| ⭐ **CodeChef** | 1432 | 1432 | 2★ · Best Rank: 717 (Starters 221) |
+| 🔵 **Codeforces** | 427 | 427 | Newbie |
+
+</div>
+
+<div align="center">
+
+### 🎖️ Codolio Awards (7)
+
+| 🏅 | Award |
+|---|---|
+| 🟡 | **500 Problems Solved** — Gold Badge |
+| 🐍 | **Python** — 5-star proficiency badge |
+| 🗄️ | **SQL** — 2-star badge |
+| 🏆 | **25 Contests** — Participated in 25+ contests |
+| 💎 | **100-Day Streak** — Maintained a 100-day coding streak |
+| 📝 | **10 Solutions Explained** — Shared 10 editorial solutions |
+| 🗓️ | **50 Days Badge 2025** — Earned 17 Oct 2025 |
+
+</div>
+
+<div align="center">
+
+### 🌟 Other Highlights
+
 | 🏆 | Achievement | Details |
 |---|---|---|
-| 💻 | **TechM CODE — The Ultimate Hack League** | Eligible candidate for Expert Programmer role at Tech Mahindra · Graduating batch 2027 · Competitive coding league |
-| 📝 | **LinkedIn Learning Creator** | Actively documenting data science & product management journey · Sharing insights on analytics, user research & product decisions |
-| 🚗 | **Cognizant Skill Project — Vehicle Claim Automation** | Delivered a production-grade end-to-end ML automation system covering OCR, damage detection & REST API workflows |
-| 🌾 | **Smart Crop Recommendation (Crop-Way)** | Solved a real-world agricultural problem using ML & environmental data modelling |
-| 🎓 | **Sathyabama Institute — CSE Undergraduate** | Building strong foundations across ML, Backend, Product Thinking & DSA |
+| 💻 | **TechM CODE — The Ultimate Hack League** | Eligible for Expert Programmer role at Tech Mahindra · Graduating Batch 2027 |
+| 📝 | **LinkedIn Content Creator** | Documenting data science & product thinking journey publicly |
+| 🚗 | **Cognizant — Vehicle Claim Automation** | Delivered production-grade ML automation: OCR + damage detection + FastAPI |
 
 </div>
 
