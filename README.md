@@ -48,6 +48,26 @@
 
 <td width="50%" align="center">
 
+### 🚀 Current Focus
+
+📊 Data Science & ML
+
+⚙️ Backend Development
+
+🏆 Competitive Programming
+
+🧠 DSA & Algorithms
+
+🚀 Building AI Solutions
+
+🎯 1000+ Problems Goal
+
+</td>
+
+</tr>
+</table>
+
+---
 
 # 👋 About Me
 
@@ -82,35 +102,6 @@ To contribute to innovative products by combining:
 <img width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 </td>
-</tr>
-</table>
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 📊 Data Science
-
-<img width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTh2c3M0YXd5M2o3dGVjc2lzM2c1OHB5ZTVrOXN4aGN3d2N6dXQzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️ Backend
-
-<img width="180" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
-
-</td>
-
-<td width="33%" align="center">
-
-### 🏆 Problem Solving
-
-<img width="180" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
-
-</td>
-
 </tr>
 </table>
 
@@ -406,17 +397,6 @@ Python • MySQL
 ✅ Backend Development Expertise
 
 ✅ Continuous Learner
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
 
 ---
 
@@ -435,10 +415,6 @@ https://codolio.com/dk003
 dhanushkanth03@gmail.com
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-</p>
 
 <div align="center">
 
