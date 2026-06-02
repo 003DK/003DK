@@ -1,5 +1,17 @@
 
-# Dhanush Kanth T R
+<!-- Wave Header -->
+
+<!-- Typing Animation -->
+
+<!-- Tech Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,fastapi,flask,pandas,numpy,opencv,git,github" />
+</p>
+
+<!-- Coding Workspace GIF -->
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/74038190/240885693-897f0e09-4e8d-4e57-bd7b-8d9cbf87f6fd.gif">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhanush%20Kanth%20T%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20Engineer%20|%20Backend%20Developer%20|%20Competitive%20Programmer&descAlignY=62&descSize=16" />
