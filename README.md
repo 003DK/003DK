@@ -1,18 +1,4 @@
 
-<!-- Wave Header -->
-
-<!-- Typing Animation -->
-
-<!-- Tech Icons -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,fastapi,flask,pandas,numpy,opencv,git,github" />
-</p>
-
-<!-- Coding Workspace GIF -->
-<p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/74038190/240885693-897f0e09-4e8d-4e57-bd7b-8d9cbf87f6fd.gif">
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhanush%20Kanth%20T%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20Engineer%20|%20Backend%20Developer%20|%20Competitive%20Programmer&descAlignY=62&descSize=16" />
 </p>
@@ -28,20 +14,58 @@
 <br>
 
 <a href="https://linkedin.com/in/dhanush-kanth-t-r-81ab28243">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://codolio.com/dk003">
-  <img src="https://img.shields.io/badge/Portfolio-Codolio-70A5FD?style=flat-square&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Codolio-70A5FD?style=flat-square&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="mailto:dhanushkanth03@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=dk003&style=flat-square&color=70A5FD&label=Profile+Views" />
 
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,fastapi,flask,pandas,numpy,opencv,git,github" />
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img width="400" src="https://user-images.githubusercontent.com/74038190/240885693-897f0e09-4e8d-4e57-bd7b-8d9cbf87f6fd.gif">
+
+</td>
+
+<td width="50%" align="center">
+
+### 🚀 Current Focus
+
+📊 Data Science & ML
+
+⚙️ Backend Development
+
+🏆 Competitive Programming
+
+🧠 DSA & Algorithms
+
+🚀 Building AI Solutions
+
+🎯 1000+ Problems Goal
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -78,6 +102,35 @@ To contribute to innovative products by combining:
 <img width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 </td>
+</tr>
+</table>
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 📊 Data Science
+
+<img width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTh2c3M0YXd5M2o3dGVjc2lzM2c1OHB5ZTVrOXN4aGN3d2N6dXQzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif">
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Backend
+
+<img width="180" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏆 Problem Solving
+
+<img width="180" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+
+</td>
+
 </tr>
 </table>
 
