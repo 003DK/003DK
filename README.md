@@ -48,26 +48,6 @@
 
 <td width="50%" align="center">
 
-### 🚀 Current Focus
-
-📊 Data Science & ML
-
-⚙️ Backend Development
-
-🏆 Competitive Programming
-
-🧠 DSA & Algorithms
-
-🚀 Building AI Solutions
-
-🎯 1000+ Problems Goal
-
-</td>
-
-</tr>
-</table>
-
----
 
 # 👋 About Me
 
