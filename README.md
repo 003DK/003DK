@@ -1,13 +1,33 @@
 
 # Dhanush Kanth T R
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhanush%20Kanth%20T%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20Engineer%20|%20Backend%20Developer%20|%20Competitive%20Programmer&descAlignY=62&descSize=16" />
+</p>
+
 <div align="center">
 
 # 🚀 Data Science Engineer | Backend Developer | Competitive Programmer
 
 ### 729+ Problems Solved • 29 Contests • CodeChef 2★ • Python Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Data+Science+Engineer+📊;Backend+Developer+⚙️;Competitive+Programmer+🏆;729%2B+Problems+Solved;Building+Real-World+AI+Solutions;Open+to+Internships+%26+Collaborations+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Data+Science+Engineer+📊;Backend+Developer+⚙️;Competitive+Programmer+🏆;729%2B+Problems+Solved;Building+Real-World+AI+Solutions;Open+to+Internships+%26+Collaborations+🚀" />
+
+<br>
+
+<a href="https://linkedin.com/in/dhanush-kanth-t-r-81ab28243">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://codolio.com/dk003">
+  <img src="https://img.shields.io/badge/Portfolio-Codolio-70A5FD?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="mailto:dhanushkanth03@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=dk003&style=flat-square&color=70A5FD&label=Profile+Views" />
 
 </div>
 
@@ -341,6 +361,17 @@ Python • MySQL
 ✅ Backend Development Expertise
 
 ✅ Continuous Learner
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+---
 
 ---
 
@@ -359,6 +390,10 @@ https://codolio.com/dk003
 dhanushkanth03@gmail.com
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+</p>
 
 <div align="center">
 
